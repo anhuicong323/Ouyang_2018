@@ -1,4 +1,4 @@
-# Ouyang-2018
+# Ouyang_2018
 Title: A new two-phase flow model based on coupling of the depth-integrated continuum method and discrete element method. 
 
 Authors: Chaojun Ouyang (cjouyang@imde.ac.cn), Huicong An, Dongpo Wang. 
